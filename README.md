@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fernandorebelo
-- 🌱 I’m currently learning HTML5, CSS3 and JavaScript
+- 🌱 I’m currently learning HTML5, CSS3 and GitHub/Git
 - 📫 How to reach me: 
 - Instagram @rebelo.rebelo
 
