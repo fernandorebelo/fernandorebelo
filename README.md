@@ -1,5 +1,4 @@
 # Olá, meu nome é Fernando Rebelo
-GitHub em **construção**
 ## Um pouco sobre mim
 - Arquiteto e urbanista de profissão
 - Estou no início dos estudos de programação
