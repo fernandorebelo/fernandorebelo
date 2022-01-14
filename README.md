@@ -1,7 +1,7 @@
 # Olá, meu nome é Fernando Rebelo
 GitHub em **construção**
 ## Um pouco sobre mim
-- Arquiteto de profissão
+- Arquiteto e urbanista de profissão
 - Estou no início dos estudos de programação
 - Atualmente estou estudando HTML, CSS e GitHub/Git
 - Minha meta é iniciar meus estudos em JavaScript em breve
