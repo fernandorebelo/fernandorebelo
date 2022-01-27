@@ -3,7 +3,7 @@
 - Arquiteto e urbanista de profissão
 - Estou no início dos estudos de programação
 - Atualmente estou estudando HTML, CSS e GitHub/Git
-- Minha meta é iniciar meus estudos em JavaScript em breve
+- Minha meta é iniciar meus estudos em JavaScript ou PHP em breve
 
 ## Redes que estou presente
 
