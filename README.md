@@ -5,6 +5,9 @@
 - Atualmente estou estudando HTML, CSS e GitHub/Git
 - Minha meta é iniciar meus estudos em JavaScript ou PHP em breve
 
+## Portfolio que estou montando
+- [CodePen](https://codepen.io/collection/kNeZPM)
+
 ## Redes que estou presente
 
 - [Twitter](https://twitter.com/rebelo1993)
