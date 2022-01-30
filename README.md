@@ -2,7 +2,7 @@
 ## Um pouco sobre mim
 - Arquiteto e urbanista de profissão
 - Estou no início dos estudos de programação
-- Atualmente estou estudando HTML, CSS e GitHub/Git
+- Atualmente estou me aprimorando em  HTML, CSS e versionamento Git/GitHub
 - Minha meta é iniciar meus estudos em JavaScript ou PHP em breve
 
 ## Portfolio que estou montando
