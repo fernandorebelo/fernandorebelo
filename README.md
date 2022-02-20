@@ -1,17 +1,15 @@
-# Olá, meu nome é Fernando Rebelo
-## Um pouco sobre mim
-- Arquiteto e urbanista de profissão
-- Estou no início dos estudos de programação
-- Atualmente estou me aprimorando em  HTML, CSS e versionamento Git/GitHub
-- Minha meta é iniciar meus estudos em JavaScript ou PHP em breve
+# Hello, my name is Fernando Rebelo
+## About me
+I've started my studies for web application in JavaScript.
+My skills are HTML5, CSS3 and GitHub/Git version control.
 
-## Portfolio que estou montando
+## My Portfolio
 - [CodePen](https://codepen.io/collection/kNeZPM)
 
-## Redes que estou presente
+## My Social Media
 
 - [Twitter](https://twitter.com/rebelo1993)
-- [Instagram](https://www.instagram.com/rebelo.rebelo/)
+- [LinkedIn](https://www.linkedin.com/in/fernandorebelodev/)
 <!---
 fernandorebelo/fernandorebelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
