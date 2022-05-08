@@ -1,7 +1,10 @@
 # Hello, my name is Fernando Rebelo
 ## About me
-I've started my studies for web application in JavaScript.
-My skills are HTML5, CSS3 and GitHub/Git version control.
+I've started my studies in software developmente in Java.
+
+You can see my studies path in my repositorie [Course Java Developer TI](https://github.com/fernandorebelo/curso-developer-ti-java).
+
+My current skills are Java, HTML5, CSS3 and GitHub/Git version control.
 
 ## My Portfolio
 - [CodePen](https://codepen.io/collection/kNeZPM)
