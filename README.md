@@ -11,7 +11,6 @@ My current skills are Java, HTML5, CSS3 and GitHub/Git version control.
 
 ## My Social Media
 
-- [Twitter](https://twitter.com/rebelo1993)
 - [LinkedIn](https://www.linkedin.com/in/fernandorebelodev/)
 <!---
 fernandorebelo/fernandorebelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
