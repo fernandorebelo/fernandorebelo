@@ -7,6 +7,8 @@ You can see my studies path in my repositorie [Course Java Developer TI](https:/
 My current skills are Java, HTML5, CSS3 and GitHub/Git version control.
 
 ## My Portfolio
+You can see some landing pages and forms that I created studying html and css.
+
 - [CodePen](https://codepen.io/collection/kNeZPM)
 
 ## My Social Media
