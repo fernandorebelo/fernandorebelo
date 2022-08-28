@@ -9,7 +9,8 @@ My current skills are Java, HTML5, CSS3 and GitHub/Git version control.
 ## My Portfolio
 
 Applications in Java
-- [Snake Game](https://github.com/fernandorebelo/snake-game-java)
+- [Site de vendas - em desenvolvimento](https://github.com/fernandorebelo/site-vendas-gen)
+- [Snake Game - backend](https://github.com/fernandorebelo/snake-game-java)
 - [To-do List](https://github.com/fernandorebelo/to-do-list-java)
 - [Customer and Contract Management](https://github.com/fernandorebelo/ccm-customer-contract-management)
 - [SMS web notification](https://github.com/fernandorebelo/dsmeta)
