@@ -9,6 +9,7 @@ My current skills are Java, HTML5, CSS3 and GitHub/Git version control.
 ## My Portfolio
 
 Applications in Java
+- [Formulário de cadastro - em desenvolvimento](https://github.com/fernandorebelo/formulario-banco-de-talentos)
 - [Site de vendas - em desenvolvimento](https://github.com/fernandorebelo/site-vendas-gen)
 - [Snake Game - backend](https://github.com/fernandorebelo/snake-game-java)
 - [To-do List](https://github.com/fernandorebelo/to-do-list-java)
@@ -20,10 +21,7 @@ Applications in Java
 - [Algorithm - orders: mechanical services](https://github.com/fernandorebelo/cadastro-ordem-servico-oop)
 - [Algorithm - calculator](https://github.com/fernandorebelo/calculadora-oop)
 - [50 algorithm exercises - IFSC](https://github.com/fernandorebelo/exercicios-50-ifsc-java)
-
-You can see some landing pages and forms that I created studying html and css.
-
-- [CodePen](https://codepen.io/collection/kNeZPM)
+- [CodePen projects](https://codepen.io/collection/kNeZPM)
 
 ## My Social Media
 
