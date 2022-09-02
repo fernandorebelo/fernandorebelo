@@ -9,18 +9,18 @@ My current skills are Java, HTML5, CSS3 and GitHub/Git version control.
 ## My Portfolio
 
 Applications in Java
-- [Formulário de cadastro - em desenvolvimento](https://github.com/fernandorebelo/formulario-banco-de-talentos)
-- [Site de vendas - em desenvolvimento](https://github.com/fernandorebelo/site-vendas-gen)
-- [Snake Game - backend](https://github.com/fernandorebelo/snake-game-java)
-- [To-do List](https://github.com/fernandorebelo/to-do-list-java)
-- [Customer and Contract Management](https://github.com/fernandorebelo/ccm-customer-contract-management)
-- [SMS web notification](https://github.com/fernandorebelo/dsmeta)
-- [Algorithm - register and alter password](https://github.com/fernandorebelo/cadatrar-alterar-senha-java)
-- [Algorithm - hotel reservations](https://github.com/fernandorebelo/sistema-cadastro-hotel-oop-java)
-- [Algorithm - login and password authentication](https://github.com/fernandorebelo/autenticacao-login-senha-java)
-- [Algorithm - orders: mechanical services](https://github.com/fernandorebelo/cadastro-ordem-servico-oop)
-- [Algorithm - calculator](https://github.com/fernandorebelo/calculadora-oop)
-- [50 algorithm exercises - IFSC](https://github.com/fernandorebelo/exercicios-50-ifsc-java)
+- [Formulário de cadastro - em desenvolvimento | HTML, CSS, Bootstrap, JavaScript](https://github.com/fernandorebelo/formulario-banco-de-talentos)
+- [Site de vendas - em desenvolvimento | HTML, CSS, Bootstrap](https://github.com/fernandorebelo/site-vendas-gen)
+- [Snake Game - backend | Java](https://github.com/fernandorebelo/snake-game-java)
+- [To-do List | Java, Spring Boot, PostgreSQL, Swagger](https://github.com/fernandorebelo/to-do-list-java)
+- [Customer and Contract Management | Java, mySQL, Swing](https://github.com/fernandorebelo/ccm-customer-contract-management)
+- [SMS web notification | Java, Spring Boot, ReactJS, HTML, CSS](https://github.com/fernandorebelo/dsmeta)
+- [Algorithm - register and alter password | Java](https://github.com/fernandorebelo/cadatrar-alterar-senha-java)
+- [Algorithm - hotel reservations | Java](https://github.com/fernandorebelo/sistema-cadastro-hotel-oop-java)
+- [Algorithm - login and password authentication | Java](https://github.com/fernandorebelo/autenticacao-login-senha-java)
+- [Algorithm - orders: mechanical services | Java](https://github.com/fernandorebelo/cadastro-ordem-servico-oop)
+- [Algorithm - calculator | Java](https://github.com/fernandorebelo/calculadora-oop)
+- [50 algorithm exercises - IFSC | Java](https://github.com/fernandorebelo/exercicios-50-ifsc-java)
 - [CodePen projects](https://codepen.io/collection/kNeZPM)
 
 ## My Social Media
