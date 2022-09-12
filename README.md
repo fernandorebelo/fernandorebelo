@@ -9,6 +9,7 @@ My current skills are Java, HTML5, CSS3 and GitHub/Git version control.
 ## My Portfolio
 
 Some of my studies projects:
+- [Folha de pagamento - backend | Java, Spring Boot, Spring MVC, Spring HATEOAS, JPA](https://github.com/fernandorebelo/folha-de-pagamento-rest)
 - [Formulário de cadastro - em desenvolvimento | HTML, CSS, Bootstrap, JavaScript](https://github.com/fernandorebelo/formulario-banco-de-talentos)
 - [Site de vendas - em desenvolvimento | HTML, CSS, Bootstrap](https://github.com/fernandorebelo/site-vendas-gen)
 - [Snake Game - backend | Java](https://github.com/fernandorebelo/snake-game-java)
