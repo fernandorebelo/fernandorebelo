@@ -10,11 +10,11 @@ My current skills are  Java, OOP, MVC, SQL, Swing, Spring Boot, JPA, JDBA, HTML,
 
 Some of my studies projects:
 - [API - Cadastro de Cliente e Cidade | Java, Spring Boot, JPA, Swagger, JDBC, MySQL](https://github.com/fernandorebelo/api-devti-persistencia)
-- [Folha de pagamento - backend | Java, Spring Boot, Spring MVC, Spring HATEOAS, JPA](https://github.com/fernandorebelo/folha-de-pagamento-rest)
+- [API - Folha de pagamento - backend | Java, Spring Boot, Spring MVC, Spring HATEOAS, JPA](https://github.com/fernandorebelo/folha-de-pagamento-rest)
+- [API - To-do List | Java, Spring Boot, PostgreSQL, Swagger](https://github.com/fernandorebelo/to-do-list-java)
 - [Formulário de cadastro - em desenvolvimento | HTML, CSS, Bootstrap, JavaScript](https://github.com/fernandorebelo/formulario-banco-de-talentos)
 - [Site de vendas - em desenvolvimento | HTML, CSS, Bootstrap](https://github.com/fernandorebelo/site-vendas-gen)
 - [Snake Game - backend | Java](https://github.com/fernandorebelo/snake-game-java)
-- [To-do List | Java, Spring Boot, PostgreSQL, Swagger](https://github.com/fernandorebelo/to-do-list-java)
 - [Customer and Contract Management | Java, mySQL, Swing](https://github.com/fernandorebelo/ccm-customer-contract-management)
 - [SMS web notification | Java, Spring Boot, ReactJS, HTML, CSS](https://github.com/fernandorebelo/dsmeta)
 - [Algorithm - register and alter password | Java](https://github.com/fernandorebelo/cadatrar-alterar-senha-java)
