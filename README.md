@@ -9,6 +9,7 @@ My current skills are  Java, OOP, MVC, SQL, Swing, Spring Boot, JPA, JDBA, HTML,
 ## My Portfolio
 
 Some of my studies projects:
+- [API - Cadastro de Cliente e Cidade | Java, Spring Boot, JPA, Swagger, JDBC, MySQL](https://github.com/fernandorebelo/api-devti-persistencia)
 - [Folha de pagamento - backend | Java, Spring Boot, Spring MVC, Spring HATEOAS, JPA](https://github.com/fernandorebelo/folha-de-pagamento-rest)
 - [Formulário de cadastro - em desenvolvimento | HTML, CSS, Bootstrap, JavaScript](https://github.com/fernandorebelo/formulario-banco-de-talentos)
 - [Site de vendas - em desenvolvimento | HTML, CSS, Bootstrap](https://github.com/fernandorebelo/site-vendas-gen)
