@@ -1,10 +1,4 @@
 # Hello, my name is Fernando Rebelo
-## About me
-I've started my studies in software developmente in Java.
-
-You can see my studies path in my repositorie [Course Java Developer TI](https://github.com/fernandorebelo/curso-developer-ti-java).
-
-My current skills are  Java, OOP, MVC, SQL, Swing, Spring Boot, JPA, JDBA, HTML, CSS, JavaScript, Bootstrap and GitHub/Bash version control.
 
 ## My Portfolio
 
