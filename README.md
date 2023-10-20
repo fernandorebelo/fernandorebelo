@@ -7,7 +7,8 @@
 Some of my studies projects:
 
 - [Login / Signup - Authentication form page with Python, Flask, Firebase](https://github.com/fernandorebelo/form-login-firebase)
-- [Rick and Morty - Backend API with Python and Flask](https://github.com/fernandorebelo/rickandmorty-backend)
+- [Rick and Morty - Front end - In production](https://github.com/fernandorebelo/rickandmorty-frontend)
+- [Rick and Morty - Backend API with Python and Flask - In production](https://github.com/fernandorebelo/rickandmorty-backend)
 - [App Mobile - Cadastro de Cliente e Cidade | Flutter, consumo de API](https://github.com/fernandorebelo/app-cadastro-cliente-flutter)
 - [API - Cadastro de Cliente e Cidade | Java, Spring Boot, JPA, Swagger, JDBC, MySQL](https://github.com/fernandorebelo/api-devti-persistencia)
 - [API - Folha de pagamento - backend | Java, Spring Boot, Spring MVC, Spring HATEOAS, JPA](https://github.com/fernandorebelo/folha-de-pagamento-rest)
